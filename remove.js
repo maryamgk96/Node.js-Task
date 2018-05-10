@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var fs = require('fs');
 var args = process.argv.slice(2);
 var key = args[0]
